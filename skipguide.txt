@@ -40,14 +40,14 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser"},
-  {"desc2":"description2 ser"},
-  {"desc3":"description3 ser"},
-  {"desc4":"description4 ser"},
-  {"desc5":"description5 ser"},
-  {"desc6":"description5 ser"},
-  {"desc7":"description5 ser"},
-  {"descd":"description d ser"}
+  {"desc1":"Food is an essential part of any culture, and it often reflects the traditions and customs of a particular region. Garri, a popular West African food made from cassava, holds a special place in the hearts and palates of many Nigerians."},
+  {"desc2":"Traditionally, garri is processed manually, involving time-consuming steps like peeling, washing, fermenting, grinding, and sieving. "},
+  {"desc3":"However, with advancements in technology, a new innovation has emerged: Android garri. This paper aims to explore the concept of Android garri, its impact on traditional garri processing, and the benefits it brings to the culinary landscape."},
+  {"desc4":"Garri processing has evolved over centuries, with each generation adding its own unique touch. The traditional method involves extensive manual labor and is susceptible to inconsistencies in quality and quantity. "},
+  {"desc5":"The advent of mechanical garri processing machines in the 20th century brought about significant improvements, reducing the physical strain on processors. However, it was the introduction of Android garri that truly revolutionized the industry."},
+  {"desc6":"Android garri is a product of the fusion between traditional garri processing and modern technology. It involves the use of specialized Android-powered machines that automate various stages of the processing, thereby increasing efficiency and productivity."},
+  {"desc7":" These machines are designed to peel, wash, ferment, grind, and sieve cassava, all with minimal human intervention."},
+  {"descd":" Increased Efficiency: Android garri processing machines are capable of handling large volumes of cassava, thereby reducing processing time significantly. This efficiency boost leads to increased production, making it easier to meet the growing demand for garri."}
    ]
  
 }
